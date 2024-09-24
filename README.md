@@ -1,2 +1,2 @@
 # tutorBot-
-Almacena archivos de tutorBot+
+Repositorio imagen visual de tutorBot+
